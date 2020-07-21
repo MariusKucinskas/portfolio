@@ -2,7 +2,6 @@
 
 In order to enter an internship it was a must to show portfolio. I used templates , which I modified or added more features.
 
-▪ Beauty services website http://bbangelicavarne.co.uk/
 
 ▪ For my final thesis I m ade information system electronic factory journal
 (PHP). DEMO version for testing http://mariuskucinskas.we2host.lt/ *.
